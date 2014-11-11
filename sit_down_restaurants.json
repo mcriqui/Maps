@@ -20,23 +20,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -77.0332715, 
-                    38.900662
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "Address": "809 15th St NW Washington DC 20005", 
-                "Name": "Bobby Van's Steakhouse", 
-                "Phone": "202-589-1504", 
-                "Website": "http://www.bobbyvans.com", 
-                "marker-symbol": "restaurant"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
                     -77.03232349999999, 
                     38.8980638
                 ], 
