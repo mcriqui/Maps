@@ -10,7 +10,7 @@
             }, 
             "properties": {
                 "address": "600 14th St NW Washington DC 20005", 
-                "marker-symbol": "fast-food", 
+                "marker-symbol": "restaurant", 
                 "name": "The Hamilton", 
                 "phone": "202-787-1000", 
                 "website": "http://www.thehamilton.com"
@@ -27,7 +27,7 @@
             }, 
             "properties": {
                 "address": "809 15th St NW Washington DC 20002", 
-                "marker-symbol": "fast-food", 
+                "marker-symbol": "restaurant", 
                 "name": "Bobby Van's Steakhouse", 
                 "phone": "202-589-1504", 
                 "website": "http://www.bobbyvans.com"
@@ -37,17 +37,17 @@
         {
             "geometry": {
                 "coordinates": [
-                    -77.0313177, 
-                    38.9010133
+                    -76.9836195, 
+                    38.899994
                 ], 
                 "type": "Point"
             }, 
             "properties": {
-                "address": "1350 I St NW Washington DC 20005", 
-                "marker-symbol": "fast-food", 
-                "name": "Tuscana West", 
-                "phone": "202-289-7300", 
-                "website": "www.tuscanawest.net"
+                "address": "809 15th St NW Washington DC 20002", 
+                "marker-symbol": "restaurant", 
+                "name": "Bobby Van's Steakhouse", 
+                "phone": "202-589-1504", 
+                "website": "http://www.bobbyvans.com"
             }, 
             "type": "Feature"
         }, 
@@ -61,7 +61,7 @@
             }, 
             "properties": {
                 "address": "1319 F St NW Washington DC 20004", 
-                "marker-symbol": "fast-food", 
+                "marker-symbol": "restaurant", 
                 "name": "Noelia", 
                 "phone": "202-737-3100", 
                 "website": "www.finemonodo.com"
@@ -78,7 +78,7 @@
             }, 
             "properties": {
                 "address": "600 14th St NW Washington DC 20005", 
-                "marker-symbol": "fast-food", 
+                "marker-symbol": "restaurant", 
                 "name": "MXDC", 
                 "phone": "202-393-1900", 
                 "website": "http://www.mxdcrestaurant.com"
@@ -95,7 +95,7 @@
             }, 
             "properties": {
                 "address": "1457 Pennsylvania Ave NW Washington DC 20004", 
-                "marker-symbol": "fast-food", 
+                "marker-symbol": "restaurant", 
                 "name": "Occidental Grill & Seafood", 
                 "phone": "202-783-1475", 
                 "website": "www.occidentaldc.com"
@@ -112,7 +112,7 @@
             }, 
             "properties": {
                 "address": "1301 Pennsylvania Ave NW Washington DC 20004", 
-                "marker-symbol": "fast-food", 
+                "marker-symbol": "restaurant", 
                 "name": "Cheff Geoff's", 
                 "phone": "202-464-4461", 
                 "website": "www.chefgeoff.com"
