@@ -1,16 +1,17 @@
 {
     "features": [
-        {
+          {
             "geometry": {
                 "coordinates": [
-                    -77.032274, 
-                    38.897655
+                    -77.0322736, 
+                    38.8976548
                 ], 
                 "type": "Point"
             }, 
             "properties": {
                 "Address": "600 14th St NW Washington DC 20005", 
-                "Name": "IEG", 
+                "Name": "IEG Briefing Center", 
+                "Phone": "202-551-9499", 
                 "marker-symbol": "marker-stroked"
             }, 
             "type": "Feature"
