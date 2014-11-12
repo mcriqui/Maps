@@ -1,0 +1,191 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0322736, 
+                    38.8976548
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "600 14th St NW Washington DC 20005", 
+                "Name": "IEG Briefing Center", 
+                "Phone": "202-551-9499", 
+                "marker-symbol": "marker-stroked"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0322736, 
+                    38.8976548
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "600 14th St NW Washington DC 20005", 
+                "Name": "The Hamilton", 
+                "Phone": "202-787-1000", 
+                "Website": "http://www.thehamilton.com", 
+                "marker-symbol": "restaurant"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.03232349999999, 
+                    38.8980638
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "1400 G St Washington DC 20005", 
+                "Name": "MXDC", 
+                "Phone": "202-393-1900", 
+                "Website": "http://www.mxdcrestaurant.com", 
+                "marker-symbol": "restaurant"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.03288409999999, 
+                    38.8963742
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "1457 Pennsylvania Ave NW Washington DC 20004", 
+                "Name": "Occidental Grill & Seafood", 
+                "Phone": "202-783-1475", 
+                "Website": "www.occidentaldc.com", 
+                "marker-symbol": "restaurant"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0299619, 
+                    38.8963369
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "1301 Pennsylvania Ave NW Washington DC 20004", 
+                "Name": "Cheff Geoff's", 
+                "Phone": "202-464-4461", 
+                "Website": "www.cheffgoeffs.com", 
+                "marker-symbol": "restaurant"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0304364, 
+                    38.897578
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "1319 F St NW Washington DC 20004", 
+                "Name": "Noelia", 
+                "Phone": "202-737-3100", 
+                "Website": "www.noeliadc-hub.com", 
+                "marker-symbol": "restaurant"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.03299489999999, 
+                    38.9002013
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "1426 H St NW Washington DC 20005", 
+                "Name": "Woodward Table", 
+                "Phone": "202-347-5353", 
+                "Website": "www.woodwardtable.com", 
+                "marker-symbol": "restaurant"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0284739, 
+                    38.89761499999999
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "1201 F St NW Washington DC 20004", 
+                "Name": "Ocenaire Seafood Room", 
+                "Phone": "202-347-2277", 
+                "Website": "theocenaire.com", 
+                "marker-symbol": "restaurant"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.03226819999999, 
+                    38.8966008
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "1401 Pennsylvania Ave NW Washington DC 20005", 
+                "Name": "Cafe du Parc", 
+                "Phone": "202-942-7000", 
+                "Website": "www.cafeduparc.com", 
+                "marker-symbol": "restaurant"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0287259, 
+                    38.895738
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "1201 Pennsylvania Ave NW Washington DC 20004", 
+                "Name": "Del Frisco's Grille", 
+                "Phone": "202-450-4686", 
+                "Website": "www.delfriscosgrille.com", 
+                "marker-symbol": "restaurant"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.030051, 
+                    38.898306
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Address": "1306 G St NW Washington DC 20005", 
+                "Name": "Laughing Man Sports Tavern", 
+                "Phone": "202-737-1797", 
+                "Website": "www.laughingmantavern.com", 
+                "marker-symbol": "restaurant"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}
