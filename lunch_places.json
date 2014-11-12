@@ -13,7 +13,7 @@
                 "Name": "IEG Briefing Center", 
                 "Phone": "202-551-9499", 
                 "marker-symbol": "marker-stroked",
-                "marker-color": "rgb(220,20,60)"
+                "marker-color": "#DC143C "
             }, 
             "type": "Feature"
         }, 
