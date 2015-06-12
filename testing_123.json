@@ -3,23 +3,24 @@
         {
             "geometry": {
                 "coordinates": [
-                    -99.2764299,
-                    29.6571703
-                ],
+                    113.466667, 
+                    52.05
+                ], 
                 "type": "Point"
-            },
+            }, 
             "properties": {
-                "city": "Tarpley",
-                "episode title": "Classics",
-                "name": "Mac and Ernies",
-                "number of reviews": "36",
-                "rating": "4",
-                "season": "1",
-                "state": "Texas"
-            },
+                "city": "City", 
+                "episode title": "Show Title", 
+                "marker-symbol": "rocket", 
+                "name": "Resturant", 
+                "number of reviews": "Error\r", 
+                "rating": "Rating", 
+                "season": "Season", 
+                "state": "State"
+            }, 
             "type": "Feature"
         },
-}
-    ],
+    
+    ], 
     "type": "FeatureCollection"
 }
