@@ -1,23 +1,107 @@
 {
-    "features": [
-        {
-            "geometry": {
-                "coordinates": [
-                    -77.0322736, 
-                    38.8976548
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "address": "600 14th St NW Washington DC 20005", 
-                "marker-symbol": "marker",
-                "marker-color": "#880000",
-                "name": "The Hamilton", 
-                "phone": "202-787-1000", 
-                "website": "http://www.thehamilton.com"
-            }, 
-            "type": "Feature"
-        },
-    ], 
-    "type": "FeatureCollection"
+features: [
+{
+geometry: {
+coordinates: [
+-77.0311789,
+38.8971054
+],
+type: "Point"
+},
+properties: {
+Address: "529 14th St NW Washington DC 20045",
+Name: "Corner Bakery",
+Phone: "202-662-7400",
+Website: "http://cornerbakerycafe.com",
+marker-symbol: "marker"
+},
+type: "Feature"
+},
+{
+geometry: {
+coordinates: [
+-77.030937,
+38.897643
+],
+type: "Point"
+},
+properties: {
+Address: "1331 F St NW Washington DC 20004",
+Name: "Devon and Blakely",
+Phone: "202-783-4890",
+Website: "http://orderdevonblakely.com",
+marker-symbol: "fast-food"
+},
+type: "Feature"
+},
+{
+geometry: {
+coordinates: [
+-77.030156,
+38.897597
+],
+type: "Point"
+},
+properties: {
+Address: "1309 F St NW Washington DC 20004",
+Name: "District Taco",
+Phone: "202-347-7359",
+Website: "http://www.districttaco.com",
+marker-symbol: "fast-food"
+},
+type: "Feature"
+},
+{
+geometry: {
+coordinates: [
+-77.03018039999999,
+38.8975405
+],
+type: "Point"
+},
+properties: {
+Address: "1311 F St NW Washington DC 20004",
+Name: "Roti",
+Phone: "202-499-2000",
+Website: "http://www.roti.com",
+marker-symbol: "fast-food"
+},
+type: "Feature"
+},
+{
+geometry: {
+coordinates: [
+-77.0311952,
+38.9004793
+],
+type: "Point"
+},
+properties: {
+Address: "1333 H St NW Washington DC",
+Name: "Cosi",
+Phone: "202-289-5888",
+Website: "http://www.getcosi.com",
+marker-symbol: "fast-food"
+},
+type: "Feature"
+},
+{
+geometry: {
+coordinates: [
+-77.0316374,
+38.8997419
+],
+type: "Point"
+},
+properties: {
+Address: "1399 New York Ave NW Washington DC",
+Name: "Pret Au Manger",
+Phone: "202-393-0533",
+Website: "http://www.pret.com",
+marker-symbol: "fast-food"
+},
+type: "Feature"
+}
+],
+type: "FeatureCollection"
 }
