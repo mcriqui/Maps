@@ -9,7 +9,7 @@
                 "type": "Point"
             }, 
             "properties": {
-                "marker-symbol": "rocket", 
+                "marker-symbol": "marker", 
                 "name": "Mac and Ernies", 
                 "rating": "Mac-and-Ernies-Tarpley"
             }, 
