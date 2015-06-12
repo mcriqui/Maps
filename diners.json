@@ -9,7 +9,8 @@
                 "type": "Point"
             }, 
             "properties": {
-                "marker-symbol": "marker", 
+                "marker-symbol": "marker",
+                "marker-color": "#880000"
                 "name": "Mac and Ernies", 
                 "rating": "Mac-and-Ernies-Tarpley"
             }, 
