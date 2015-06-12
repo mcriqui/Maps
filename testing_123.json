@@ -5,8 +5,7 @@
                 "coordinates": [
                     -99.2764299, 
                     29.6571703
-                ], 
-                "type": "Point"
+                ]
             }, 
             "properties": {
                 "city": "Tarpley", 
@@ -25,8 +24,7 @@
                 "coordinates": [
                     -97.336111, 
                     37.688889
-                ], 
-                "type": "Point"
+                ]
             }, 
             "properties": {
                 "city": "Wichita", 
@@ -45,8 +43,7 @@
                 "coordinates": [
                     -121.8144142, 
                     48.7766868
-                ], 
-                "type": "Point"
+                ]
             }, 
             "properties": {
                 "city": "Baker", 
@@ -65,8 +62,7 @@
                 "coordinates": [
                     -115.1398296, 
                     36.1699412
-                ], 
-                "type": "Point"
+                ]
             }, 
             "properties": {
                 "city": "Las Vegas", 
@@ -85,8 +81,7 @@
                 "coordinates": [
                     -82.8192807, 
                     30.2304453
-                ], 
-                "type": "Point"
+                ]
             }, 
             "properties": {
                 "city": "Wellborn", 
@@ -105,8 +100,7 @@
                 "coordinates": [
                     -83.9207392, 
                     35.9606384
-                ], 
-                "type": "Point"
+                ]
             }, 
             "properties": {
                 "city": "Knoxville", 
@@ -125,8 +119,7 @@
                 "coordinates": [
                     -80.8431267, 
                     35.2270869
-                ], 
-                "type": "Point"
+                ]
             }, 
             "properties": {
                 "city": "Charlotte", 
@@ -145,8 +138,7 @@
                 "coordinates": [
                     -118.4911912, 
                     34.0194543
-                ], 
-                "type": "Point"
+                ]
             }, 
             "properties": {
                 "city": "Santa Monica", 
@@ -165,8 +157,7 @@
                 "coordinates": [
                     -87.73866190000001, 
                     41.6689223
-                ], 
-                "type": "Point"
+                ]
             }, 
             "properties": {
                 "city": "Alsip", 
@@ -185,8 +176,7 @@
                 "coordinates": [
                     -105.2705456, 
                     40.0149856
-                ], 
-                "type": "Point"
+                ]
             }, 
             "properties": {
                 "city": "Boulder City", 
@@ -205,8 +195,7 @@
                 "coordinates": [
                     -87.82118539999999, 
                     42.5847425
-                ], 
-                "type": "Point"
+                ]
             }, 
             "properties": {
                 "city": "Kenosha", 
@@ -225,8 +214,7 @@
                 "coordinates": [
                     -59.66286640000001, 
                     -33.6757835
-                ], 
-                "type": "Point"
+                ]
             }, 
             "properties": {
                 "city": "San Pedro", 
@@ -245,8 +233,7 @@
                 "coordinates": [
                     -83.2696509, 
                     42.240872
-                ], 
-                "type": "Point"
+                ]
             }, 
             "properties": {
                 "city": "Taylor", 
@@ -265,8 +252,7 @@
                 "coordinates": [
                     12.3155151, 
                     45.4408474
-                ], 
-                "type": "Point"
+                ]
             }, 
             "properties": {
                 "city": "Venice", 
@@ -285,8 +271,7 @@
                 "coordinates": [
                     -80.8431267, 
                     35.2270869
-                ], 
-                "type": "Point"
+                ]
             }, 
             "properties": {
                 "city": "Charlotte", 
@@ -305,8 +290,7 @@
                 "coordinates": [
                     -73.9015246, 
                     41.7667602
-                ], 
-                "type": "Point"
+                ]
             }, 
             "properties": {
                 "city": "Hyde Park", 
@@ -325,8 +309,7 @@
                 "coordinates": [
                     -97.5164276, 
                     35.4675602
-                ], 
-                "type": "Point"
+                ]
             }, 
             "properties": {
                 "city": "Oklahoma City", 
@@ -345,8 +328,7 @@
                 "coordinates": [
                     -69.77532219999999, 
                     44.2300698
-                ], 
-                "type": "Point"
+                ]
             }, 
             "properties": {
                 "city": "Gardiner", 
@@ -365,8 +347,7 @@
                 "coordinates": [
                     -86.90806549999999, 
                     40.4258686
-                ], 
-                "type": "Point"
+                ]
             }, 
             "properties": {
                 "city": "West Lafayette", 
